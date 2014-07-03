@@ -6,13 +6,5 @@ public class VideoPlayer extends SequencePlayer {
 
     public VideoPlayer(File file) {
         super(file);
-        // TODO Auto-generated constructor stub
     }
-
-    @Override
-    public void play() {
-        // TODO Auto-generated method stub
-
-    }
-
 }

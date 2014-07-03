@@ -1,12 +1,18 @@
 package com.hackbulgaria.java;
 
+import java.awt.image.BufferedImage;
 import java.io.File;
+import java.util.List;
 
-public abstract class SequencePlayer extends FilePlayer {
+public class SequencePlayer extends FilePlayer {
 
     public SequencePlayer(File file) {
         super(file);
-        // TODO Auto-generated constructor stub
+    }
+
+    @Override
+    public void play(List<BufferedImage> list, int colums) {
+
     }
 
 }
