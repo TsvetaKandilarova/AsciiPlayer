@@ -4,17 +4,8 @@ import java.io.File;
 
 public class GifPlayer extends SequencePlayer {
 
-    private GifDecoder decoder;
-
     public GifPlayer(File file) {
         super(file);
-        GifDecoder decoder = new GifDecoder();
+        // TODO Auto-generated constructor stub
     }
-
-    @Override
-    public void play() {
-        // TODO Auto-generated method stub
-
-    }
-
 }
