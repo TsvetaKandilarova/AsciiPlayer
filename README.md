@@ -1,4 +1,4 @@
 AsciiPlayer
 ===========
 
-Ascii player is ascii videos, gifs and pictures ASCII representation.
+Ascii player is videos, gifs and pictures ASCII representation.
