@@ -9,5 +9,6 @@ public abstract class FilePlayer implements Player {
     public FilePlayer(File file, int columns) {
         this.file = file;
         this.columns = columns;
+
     }
 }
